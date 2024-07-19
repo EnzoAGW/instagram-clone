@@ -1,5 +1,5 @@
 import { Text } from "react-native";
 
-export default function TabOne(){
+export default function Home(){
     return <Text>foryou</Text>
 }
